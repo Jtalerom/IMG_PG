@@ -1,0 +1,54 @@
+enable  : true
+topTitle: RECENT WORK
+title   : WORK SHOWCASE.
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+
+filtermenu :
+  - name      : Photography
+    category  : photography
+
+  - name      : Ios App
+    category  : ios
+
+  - name      : Development
+    category  : development
+
+  - name      : Design
+    category  : design
+
+item   :
+  - title : AirBnB Postcard
+    image : images/imagine_Car/p1.jpg
+    category  : photography
+
+  - title : D Design
+    image : images/imagine_Car/p2.jpg
+    category  : ios, design
+
+  - title : Xbox 360
+    image : images/imagine_Car/p3.jpg
+    category  : photography, development
+
+  - title : Ballon Card
+    image : images/imagine_Car/p4.jpg
+    category  : ios
+
+  - title : Ready Toons
+    image : images/imagine_Car/p5.jpg
+    category  : design
+
+  - title : Illustration
+    image : images/imagine_Car/p6.jpg
+    category  : development
+
+  - title : Ballon Card
+    image : images/imagine_Car/p7.jpg
+    category  : ios
+
+  - title : Ready Toons
+    image : images/imagine_Car/p8.jpg
+    category  : design
+
+  - title : Illustration
+    image : images/imagine_Car/p9.jpg
+    category  : development

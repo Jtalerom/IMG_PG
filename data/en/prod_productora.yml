@@ -1,0 +1,34 @@
+enable  : true
+topTitle: Nuestros productos
+title   : Productora.
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+
+
+member  :
+  - image         : images/imagine_Car/p10.jpg
+    name          : Shawshank Redemption
+    designation   : Head Of Marketing
+    url           : contact/
+    description   : >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+
+  - image         : images/imagine_Car/p12.jpg
+    name          : Leo Departure
+    designation   : Web Developer
+    url           : contact/
+    description   : >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+
+  - image         : images/imagine_Car/p13.jpg
+    name          : Remoni Rio
+    designation   : Senior Developer
+    url           : contact/
+    description   : >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+
+  - image         : images/imagine_Car/p14.jpg
+    name          : Lawandeski Roma
+    designation   : Designer
+    url           : contact/
+    description   : >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.

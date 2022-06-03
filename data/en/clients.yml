@@ -1,0 +1,21 @@
+enable    : true
+title     : Nos enorgullesen nuestros clientes
+description: >
+  Algunos de los clientes con los que hemos realizado grandes proyectos.
+image     : images/about/about-1.jpg
+servicelist:
+  - name    : Creative Designers
+  - name    : Genius Developers
+  - name    : Growth Hackers
+  - name    : Marketing Masterminds
+clientLogo:
+  - image   : images/client-logo/logo1.png
+  - image   : images/client-logo/logo-2.png
+  - image   : images/client-logo/logo-3.png
+  - image   : images/client-logo/logo-4.png
+  - image   : images/client-logo/logo-5.png
+  - image   : images/client-logo/logo1.png
+  - image   : images/client-logo/logo-2.png
+  - image   : images/client-logo/logo-3.png
+  - image   : images/client-logo/logo-4.png
+  - image   : images/client-logo/logo-5.png

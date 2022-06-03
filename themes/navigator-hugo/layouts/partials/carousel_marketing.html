@@ -1,0 +1,28 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.carousel_marketing }}
+    {{ if .enable }}
+    {{ "<!-- Client Section Start -->" | safeHTML }}
+    <section class="section">
+        <div class="container">
+            <div class="rol-md-8 text-center">
+                {{ with .title }}<h2>{{.}}</h2>{{ end }}
+            </div>
+            <div class="rol-md-8 text-center">
+                <div class="col-md-12  text-center">
+                    <div id="clients-slider" class="testimonial-slider">
+                        {{ range .clientLogo }}
+                        <img src="{{ .image | absURL }}"  alt="client-logo" width="300" > 
+                        {{ end }}
+                    </div>
+
+                    <div class="col-md-12  text-center">
+                      <a class="btn btn-main" href="{{ .Permalink }}">Ver portafolio completo</a>
+                    </div>
+          
+                </div>
+            </div>
+        </div>
+    </section>
+    {{ "<!-- Client Section End -->" | safeHTML }}
+    {{ end }}
+{{ end }}

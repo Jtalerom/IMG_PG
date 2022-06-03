@@ -1,0 +1,34 @@
+[productora]
+other = "Productora"
+
+[tecnologia]
+other = "Tecnología"
+
+[marketing]
+other = "Marketing"
+
+[lowcost]
+other = "Lowcost"
+
+[portfolio]
+other = "Portafolio"
+
+[contact]
+other = "Contacto"
+
+
+
+
+[graphicdesign]
+other = "Graphic Design"
+[webdesign]
+other = "Web Design"
+[webdevelopment]
+other = "Web Development"
+
+[partners]
+other = "Partners"
+[faqs]
+other = "FAQ's"
+[badges]
+other = "Badges"

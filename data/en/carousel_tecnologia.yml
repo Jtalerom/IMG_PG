@@ -1,0 +1,10 @@
+enable    : true
+title     : Mira nuestro trabajo
+Permalink : portfolio/
+clientLogo:
+  - image   : images/imagine_Car/p1.jpg
+  - image   : images/imagine_Car/p2.jpg
+  - image   : images/imagine_Car/p3.jpg
+  - image   : images/imagine_Car/p4.jpg
+  - image   : images/imagine_Car/p5.jpg
+  - image   : images/imagine_Car/p6.jpg

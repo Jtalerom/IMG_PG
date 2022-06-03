@@ -1,0 +1,35 @@
+enable  : true
+topTitle: SERVICIOS
+title   : 
+subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+
+item  :
+  - name        : Comerciales
+    price       : $
+    description : Perfect for single freelancers who work by themselves
+    featurelist :
+      - item: Comerciales para tv.
+      - item: Comerciales web.
+    btnText     : Ver Galeria
+    btnURL      : ../portfolio/
+
+  - name        : Corporativo
+    price       : $
+    description : Perfect for single freelancers who work by themselves
+    featurelist :
+      - item: Videos institucionales
+      - item: Contenidos para campañas de comunicación  internas 
+      - item: Contenidos para capacitación e información vital interna de la empresa
+      - item: Video de presentación de marca / producto
+    btnText     : Ver Galeria
+    btnURL      : ../portfolio/
+
+  - name        : Cubrimiento de eventos
+    price       : $
+    description : Perfect for single freelancers who work by themselves
+    featurelist :
+      - item: Aftermovies
+      - item: Documentales
+      - item: Sesiones específicas por show de artista
+    btnText     : Ver Galeria
+    btnURL      : ../portfolio/

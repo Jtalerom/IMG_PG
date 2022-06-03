@@ -1,0 +1,12 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : images/about/about-1.jpg
+    title : Imagine Company S.A.S. 
+    description : >
+      Somos una casa productora con más de seis años de experiencia y trayectoria en la industria, especialistas en entretenimiento, publicidad, marketing, música, cine y eventos enfocados en el desarrollo de la industria creativa y la transformación digital en el país.
+  - positionRight : true
+    image : images/imagine_Car/p6.jpg
+    title : Nuestra experiencia
+    description : >
+      Hemos realizando producciones, proyectos publicitarios, corporativos y de entretenimiento de alto impacto con agencias, marcas y compañías destacadas en el país como: Genia Publicidad, Zona Franco Publicidad, Unicentro Bogotá, Novartis, Instituto del corazón de Bucaramanga, Buchanans, Jhonny Walker, Arin Innovation, Walt Disney, Tecno mobile Col, BLK, Hamburguesas del rodeo, Fundación Solidaridad Por Colombia, Alcaldía de suba, Inversiones Strawberry entre otras.   Así mismo contamos con una amplia experiencia en el sector del entretenimiento y la música trabajando con festivales y artistas nacionales e internacionales como
